@@ -1,7 +1,7 @@
 ## Olá devs! Eu sou a Lucinda Gaio.
 - 🎓 Estudante Universitária de Engenharia informática
 - 💖 Estudando Front-End
-  📧 Contacte-me no email:lucindagaio40@gmail.com
+- 📧 Contacte-me no email:lucindagaio40@gmail.com
 - 👩🏽‍🎓 Pronouns: ela/dela
 
 <div align="center">
