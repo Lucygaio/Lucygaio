@@ -1,8 +1,8 @@
 ## Olá devs! Eu sou a Lucinda Gaio.
 - 🎓 Estudante Universitária de Engenharia informática
-- 💖 Estudando Front-End
+- 💖 Iniciante de UI & UX DEsign e Front-End
 - 📧 Contacte-me no email:lucindagaio40@gmail.com
-- 👩🏽‍🎓 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/Lucygaio">
